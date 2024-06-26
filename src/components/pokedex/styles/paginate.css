@@ -1,0 +1,24 @@
+.paginate{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+.paginate__btn {
+  background-color: #ff0000;
+  color: white;
+  padding: 6px;
+  margin-top: -6px;
+  margin-right: 3px;
+  font-weight: bold; 
+  border: 1px solid gray;
+}
+.paginate__btn2 {
+  background-color: #ff0000;
+  color: white;
+  padding: 6px;
+  margin-top: -6px;
+  margin-left: 3px; 
+  font-weight: bold;
+  border: 1px solid gray;
+}
